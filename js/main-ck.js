@@ -1,0 +1,1 @@
+$(function(){var e=(new Date).getFullYear();$("#date").html(e)});
